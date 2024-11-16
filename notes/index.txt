@@ -1,0 +1,2 @@
+<th>---------------->>>> table head by default and it is centered
+<caption>--------->> title of the table
